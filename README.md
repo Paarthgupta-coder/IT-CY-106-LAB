@@ -1,2 +1,2 @@
-# IT-CY-105-LAB
+# IT-CY-106-LAB
 Collaborated repo for assignment
